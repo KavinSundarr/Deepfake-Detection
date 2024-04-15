@@ -1,5 +1,5 @@
 # Deepfake-Detection-using-CNN-RNN
-
+### Our Model Accuracy ~82%
 Overall, the "Deepfake Detection using CNN-RNN" model leverages the powerful feature extraction capabilities of the Xception model, along with the sequence processing capabilities of the GRU RNN layer, to effectively detect deepfake images. The model is trained using SGD as the optimizer to minimize the classification loss on the training data.
 
 ### Feature extraction - ![image](https://github.com/irohan0/Deepfake-Detection-using-CNN-RNN/assets/121719717/ed6bcceb-e974-4550-bca3-d2c39118e77f)
