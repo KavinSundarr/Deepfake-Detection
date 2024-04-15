@@ -5,6 +5,10 @@ Overall, the "Deepfake Detection using CNN-RNN" model leverages the powerful fea
 ### Feature extraction - ![image](https://github.com/irohan0/Deepfake-Detection-using-CNN-RNN/assets/121719717/ed6bcceb-e974-4550-bca3-d2c39118e77f)
 
 
+https://github.com/irohan0/Deepfake-Detection-using-CNN-RNN/assets/121719717/56cbdf5e-9c65-4bef-8bfe-04006e62236c
+
+
+
 ## Real and Fake images
 ![image](https://github.com/irohan0/Deepfake-Detection-using-CNN-RNN/assets/121719717/28d1ecc1-c108-44d2-93fb-c326a385f078)
 
@@ -30,9 +34,9 @@ Overall, the "Deepfake Detection using CNN-RNN" model leverages the powerful fea
 | dropout_3 (Dropout)           | (None, 64)           | 0          |
 | dense_5 (Dense)               | (None, 1)            | 65         |
 
-Total params: 51,619,585 (196.91 MB)
-Trainable params: 51,619,585 (196.91 MB)
-Non-trainable params: 0 (0.00 B)
+#### Total params: 51,619,585 (196.91 MB)
+#### Trainable params: 51,619,585 (196.91 MB)
+#### Non-trainable params: 0 (0.00 B)
 
 
 
@@ -61,9 +65,9 @@ Non-trainable params: 0 (0.00 B)
 | dense_1        | (None, 8)        | 72      | dropout[0][0]      |
 | dense_2        | (None, 1)        | 9       | dense_1[0][0]      |
 
- Total params: 99,873 (390.13 KB)
- Trainable params: 99,873 (390.13 KB)
- Non-trainable params: 0 (0.00 B)
+#### Total params: 99,873 (390.13 KB)
+#### Trainable params: 99,873 (390.13 KB)
+#### Non-trainable params: 0 (0.00 B)
 
 
 ### loss curve -
