@@ -76,7 +76,8 @@ https://github.com/irohan0/Deepfake-Detection-using-CNN-RNN/assets/121719717/56c
 
 ## Contributors
 
-- [Rohan Inamdar](https://github.com/irohan0)
 - [Kavin Sundarr](https://github.com/KavinSundarr)
+- [Rohan Inamdar](https://github.com/irohan0)
+
 
 
